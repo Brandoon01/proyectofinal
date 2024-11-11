@@ -1,0 +1,57 @@
+foto de perfil 
+Mas imágenes e iconos para mas llamativo
+que se pueda ingresar cursos desde el personal
+Documento de notas
+Documento de curso
+apartado de alumnos en el curso
+modificar el css de deploy
+mostrar las  actividades q hay subidas en el aula
+
+INICIO
+dar presentación a la universidad en inicio
+
+PERSONAL
+cambiar de personal a actividades de asignaturas o variantes
+foros
+actividades con videos
+actividades ver de docente
+
+CURSOS
+los cursos que puedo ver buscar por materia nombre del docente y los horarios
+pdf de calificaciones en el curso que este 
+
+PERFIL
+foto
+correo alterno
+todas las materias
+
+
+/////////////////////////////
+Docentes
+Cursos
+cambiar subcursos por materias
+agregar apartado de notas
+
+personal
+
+Cursos
+notas y promedio
+informes de los estudiantes de cada curso y notas y demás en un pdf para descargar
+perfil
+
+que se puedan subir videos para el apartado de docentes
+///////////////////////////
+agregar mas información acerca de la universidad bíblica Techplay 
+agregar capacitaciones
+
+
+////////////////////////////
+administrador
+
+que pueda ver cuantos alumnos, docentes y cursos y demás hay registrados por cada uno y que los deje ver en un apartado en pdf o en otro aplicativo
+
+
+//////////////////////
+cursos bíblicos
+videos, podcast, procesos de reflexiones
+comentarios o chat en vivo para la realización de consultas
